@@ -1,0 +1,752 @@
+{
+    "cart":[
+        {
+            "id":1,
+            "image":"homepage_images/pizza.jpeg",
+            "name":"Pizza Hut",
+            "rating":4.1,
+            "ratings":"₹350 for two",
+            "time":35,
+            "type":"pizzas",
+            "city":"Attapur",
+            "price":350,
+            "toppics":["homepage_images/p-1.jpg","homepage_images/p-2.jpg"],
+            "recommended": [
+                {
+                    "name": "Classic Margherita Pizza",
+                    "price": "₹150",
+                    "rating": "4.2",
+                    "description": "A Simple Delight of Fresh Mozzarella, Basil, and Tomato Sauce",
+                    "image": "homepage_images/p-3.jpeg"
+                },
+                {
+                    "name": "Farmhouse Veggie Pizza",
+                    "price": "₹200",
+                    "rating": "4.4",
+                    "description": "Loaded with Fresh Veggies, Bell Peppers, Onions, and Mushrooms",
+                    "image": "homepage_images/p-4.jpg"
+                },
+                {
+                    "name": "Chicken Pepperoni Pizza",
+                    "price": "₹250",
+                    "rating": "4.6",
+                    "description": "Spicy Chicken Pepperoni with Mozzarella Cheese and Tomato Sauce",
+                    "image": "homepage_images/p-5.jpeg"
+                },
+                {
+                    "name": "Tandoori Paneer Pizza",
+                    "price": "₹220",
+                    "rating": "4.3",
+                    "description": "Tandoori-Flavored Paneer with Onions and Spicy Sauce",
+                    "image": "homepage_images/p-6.jpeg"
+                }
+                
+
+            ]
+        },
+        {
+            "id":2,
+            "image":"homepage_images/burger_king.jpeg",
+            "name":"Burger King",
+            "rating":4.1,
+            "ratings":"₹350 for two",
+            "time":35,
+            "type":"Burgers American",
+            "city":"Attapur",
+            "price":350,
+            "toppics":["homepage_images/bg-10.jpeg","homepage_images/bg-12.jpeg"],
+            "recommended":[
+                {
+                    "name": "Cheese Burst Burger",
+                    "price": "₹90",
+                    "rating": "4.1",
+                    "description": "Juicy Patty with a Melted Cheese Core, Lettuce, and Mayo",
+                    "image": "cheese_burst_burger.jpg"
+                },
+                {
+                    "name": "Peri-Peri Spicy Burger",
+                    "price": "₹120",
+                    "rating": "4.3",
+                    "description": "Crispy Chicken Patty Tossed in Peri-Peri Sauce with Onions",
+                    "image": "peri_peri_burger.jpg"
+                },
+                {
+                    "name": "Classic Veggie Delight Burger",
+                    "price": "₹70",
+                    "rating": "3.9",
+                    "description": "Crispy Veg Patty, Tomato, Lettuce, and Creamy Herb Sauce",
+                    "image": "veggie_delight_burger.jpg"
+                },
+                {
+                    "name": "Double Chicken Supreme Burger",
+                    "price": "₹150",
+                    "rating": "4.5",
+                    "description": "Two Layers of Grilled Chicken, Cheese, and Spicy Sauce",
+                    "image": "double_chicken_burger.jpg"
+                }
+            ]
+
+        },
+        {
+            "id":3,
+            "image":"homepage_images/kfc.jpeg",
+            "name":"KFC",
+            "rating":4.1,
+            "ratings":"₹350 for two",
+            "time":35,
+            "type":"Burgers,Fast Foods,Rolls,Wraps",
+            "city":"Inner Ring Road",
+            "price":400,
+            "toppics":["homepage_images/bg-10.jpeg","homepage_images/bg-12.jpeg"],
+            "recommended": [
+                {
+                    "name": "Classic Margherita Pizza",
+                    "price": "₹150",
+                    "rating": "4.2",
+                    "description": "A Simple Delight of Fresh Mozzarella, Basil, and Tomato Sauce",
+                    "image": "homepage_images/p-3.jpg"
+                },
+                {
+                    "name": "Farmhouse Veggie Pizza",
+                    "price": "₹200",
+                    "rating": "4.4",
+                    "description": "Loaded with Fresh Veggies, Bell Peppers, Onions, and Mushrooms",
+                    "image": "homepage_images/p-4.jpg"
+                },
+                {
+                    "name": "Chicken Pepperoni Pizza",
+                    "price": "₹250",
+                    "rating": "4.6",
+                    "description": "Spicy Chicken Pepperoni with Mozzarella Cheese and Tomato Sauce",
+                    "image": "homepage_images/p-5.jpeg"
+                },
+                {
+                    "name": "Tandoori Paneer Pizza",
+                    "price": "₹220",
+                    "rating": "4.3",
+                    "description": "Tandoori-Flavored Paneer with Onions and Spicy Sauce",
+                    "image": "homepage_images/p-6.jpeg"
+                }
+                
+
+            ]
+        },
+        {
+            "id":4,
+            "image":"homepage_images/mc_donalds.jpeg",
+            "name":"Mc Donald's",
+            "rating":4.3,
+            "time":40,
+            "ratings":"₹350 for two",
+            "type":"Burgers,Bevarages,Cafe....",
+            "city":"Humayun Nagar",
+            "price":400,
+            "toppics":["homepage_images/bg-10.jpeg","homepage_images/bg-12.jpeg"],
+            "recommended":[
+                {
+                    "name": "Cheese Burst Burger",
+                    "price": "₹90",
+                    "rating": "4.1",
+                    "description": "Juicy Patty with a Melted Cheese Core, Lettuce, and Mayo",
+                    "image": "cheese_burst_burger.jpg"
+                },
+                {
+                    "name": "Peri-Peri Spicy Burger",
+                    "price": "₹120",
+                    "rating": "4.3",
+                    "description": "Crispy Chicken Patty Tossed in Peri-Peri Sauce with Onions",
+                    "image": "peri_peri_burger.jpg"
+                },
+                {
+                    "name": "Classic Veggie Delight Burger",
+                    "price": "₹70",
+                    "rating": "3.9",
+                    "description": "Crispy Veg Patty, Tomato, Lettuce, and Creamy Herb Sauce",
+                    "image": "veggie_delight_burger.jpg"
+                },
+                {
+                    "name": "Double Chicken Supreme Burger",
+                    "price": "₹150",
+                    "rating": "4.5",
+                    "description": "Two Layers of Grilled Chicken, Cheese, and Spicy Sauce",
+                    "image": "double_chicken_burger.jpg"
+                }
+            ]
+
+        },
+        {
+            "id":5,
+            "image":"homepage_images/leons_burger.webp",
+            "name":"Leons-Burgers & Wings",
+            "rating":4.4,
+            "time":25,
+            "type":"American,Turkish,Fast Food..",
+            "city":"Attapur",
+            "price":300,
+            "toppics":["homepage_images/bg-10.jpeg","homepage_images/bg-12.jpeg"],
+            "recommended":[
+                {
+                    "name": "Cheese Burst Burger",
+                    "price": "₹90",
+                    "rating": "4.1",
+                    "description": "Juicy Patty with a Melted Cheese Core, Lettuce, and Mayo",
+                    "image": "cheese_burst_burger.jpg"
+                },
+                {
+                    "name": "Peri-Peri Spicy Burger",
+                    "price": "₹120",
+                    "rating": "4.3",
+                    "description": "Crispy Chicken Patty Tossed in Peri-Peri Sauce with Onions",
+                    "image": "peri_peri_burger.jpg"
+                },
+                {
+                    "name": "Classic Veggie Delight Burger",
+                    "price": "₹70",
+                    "rating": "3.9",
+                    "description": "Crispy Veg Patty, Tomato, Lettuce, and Creamy Herb Sauce",
+                    "image": "veggie_delight_burger.jpg"
+                },
+                {
+                    "name": "Double Chicken Supreme Burger",
+                    "price": "₹150",
+                    "rating": "4.5",
+                    "description": "Two Layers of Grilled Chicken, Cheese, and Spicy Sauce",
+                    "image": "double_chicken_burger.jpg"
+                }
+            ]
+            
+        },
+        {
+            "id":6,
+            "image":"homepage_images/grameen.jpeg",
+            "name":"Grameen Kulfi",
+            "rating":4.4,
+            "time":45,
+            "type":"Ice Cream ,Deserts",
+            "city":"Toli Chowki",
+            "price":120
+        },
+        {
+            "id":7,
+            "image":"homepage_images/daily_kitchen.jpg",
+            "name":"Daily Kitchen - Homely Meals",
+            "rating":4.2,
+            "time":10,
+            "type":"Home Food,Indian,North Indian...",
+            "city":"Attapur",
+            "price":250
+        },
+        {
+            "id":8,
+            "image":"homepage_images/mandi_king.jpeg",
+            "name":"Mandi King",
+            "rating":4,
+            "time":25,
+            "type":"Arabian,Tandoor,Chinese,Desserts",
+            "city":"Murad Nagar",
+            "price":500,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":9,
+            "image":"homepage_images/mehraab.jpg",
+            "name":"Mehraab Restaurant",
+            "rating":4.4,
+            "time":30,
+            "type":"Indian,Chinese,Mughalai",
+            "city":"Attapur",
+            "price":300,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":10,
+            "image":"homepage_images/donne_biryani.webp",
+            "name":"Sri Balaji Family Dhaba",
+            "rating":4.3,
+            "time":30,
+            "type":"North Indian",
+            "city":"Gudimalkapur",
+            "price":300,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":11,
+            "image":"homepage_images/mehraab.jpg",
+            "name":"Dum Safar Biryani",
+            "rating":3.7,
+            "time":35,
+            "type":"Biryani,Kebabs,Tandoor,Indian,...",
+            "city":"Attapur",
+            "price":250,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":12,
+            "image":"homepage_images/mehfil.webp",
+            "name":"Mehfil",
+            "rating":4.3,
+            "time":25,
+            "type":"Biryani,Chinese,kebabs,Tandoor",
+            "city":"Rambagh Colony",
+            "price":200,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":13,
+            "image":"homepage_images/sharvama.jpeg",
+            "name":"Mohammed's Shawarma",
+            "rating":4.2,
+            "time":30,
+            "type":"Arabian",
+            "city":"Mehidpatnam",
+            "price":150
+        },
+        {
+            "id":14,
+            "image":"homepage_images/polar_beer.jpeg",
+            "name":"Polar Bear",
+            "rating":4.3,
+            "time":25,
+            "type":"Ice Cream,Desserts,Ice Cream...",
+            "city":"Mehdipatnam",
+            "price":100
+        },
+        {
+            "id":15,
+            "image":"homepage_images/balagi_dhaba.jpeg",
+            "name":"Haldiram's Restaurent",
+            "rating":4.4,
+            "time":45,
+            "type":"North Indian,South Indian, Biryani,..",
+            "city":"Kachiguda",
+            "price":250,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":16,
+            "image":"homepage_images/minerva.jpeg",
+            "name":"Minerva Sweets",
+            "rating":4.6,
+            "time":30,
+            "type":"Sweets, Desserts, Snacks, Fast Food",
+            "city":"Humayun Nagar",
+            "price":200
+        },
+        {
+            "id":17,
+            "image":"homepage_images/nanamma.jpeg",
+            "name":"Nanamma Ruchulu",
+            "rating":4.2,
+            "time":25,
+            "type":"Biryani, Fast Food",
+            "city":"Attapur",
+            "price":200,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":18,
+            "image":"homepage_images/hotel_city_diamond.jpg",
+            "name":"Hotel City Diamond",
+            "rating":4.4,
+            "time":25,
+            "type":"Biryani, Hyderabadi",
+            "city":"Mehdipatnam",
+            "price":350,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":19,
+            "image":"homepage_images/tea_plant.jpeg",
+            "name":"The Tea Planet",
+            "rating":3.8,
+            "time":25,
+            "type":"beverages",
+            "city":"Attapur",
+            "price":70
+        },
+        {
+            "id":20,
+            "image":"homepage_images/balagi_dhaba.jpeg",
+            "name":"Balaji Family Dhaba",
+            "rating":4.3,
+            "time":20,
+            "type":"Chinese",
+            "city":"Attapur",
+            "price":200,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":21,
+            "image":"homepage_images/donne_biryani.webp",
+            "name":"Chickpet Donne Biryani House",
+            "rating":3.9,
+            "time":25,
+            "type":"South Indian",
+            "city":"Attapur",
+            "price":250,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":22,
+            "image":"homepage_images/amfa_hotel.jpeg",
+            "name":"Amfah Hotel",
+            "rating":3.8,
+            "time":35,
+            "type":"Biryani, Chinese",
+            "city":"Mehedipatnam",
+            "price":400,
+            "toppics":["homepage_images/b-1.jpg","homepage_images/b-2.jpg"],
+            "recommended":[
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹250",
+                    "rating": "4.5",
+                    "description": "Fragrant Basmati Rice Cooked with Juicy Chicken and Aromatic Spices",
+                    "image": "homepage_images/b-3.jpg"
+                },
+                {
+                    "name": "Veg Dum Biryani",
+                    "price": "₹200",
+                    "rating": "4.2",
+                    "description": "Traditional Veggies Cooked in Layers of Rice and Delicate Spices",
+                    "image": "homepage_images/b-4.jpeg"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "price": "₹300",
+                    "rating": "4.6",
+                    "description": "Succulent Pieces of Mutton Blended with Spices and Fluffy Rice",
+                    "image": "homepage_images/b-5.jpg"
+                },
+                {
+                    "name": "Egg Biryani",
+                    "price": "₹180",
+                    "rating": "4.1",
+                    "description": "Perfectly Boiled Eggs with Richly Spiced Rice and Herbs",
+                    "image": "homepage_images/b-6.png"
+                }                
+            ]
+        },
+        {
+            "id":23,
+            "image":"homepage_images/amrithsar.jpeg",
+            "name":"Amritsar Haveli",
+            "rating":4,
+            "time":25,
+            "type":"Punjabi, Fast Food, Beverages,...",
+            "city":"Attapur",
+            "price":250
+        },
+        {
+            "id":24,
+            "image":"homepage_images/varalaxmi.jpeg",
+            "name":"Varalakshmi Tiffins",
+            "rating":4.5,
+            "time":50,
+            "type":"South Indian",
+            "city":"Filmnagar",
+            "price":100
+        }
+
+    ]
+}
